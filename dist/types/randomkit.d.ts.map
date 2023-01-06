@@ -1,0 +1,1 @@
+{"version":3,"file":"randomkit.d.ts","sourceRoot":"","sources":["../../src/randomkit.ts"],"names":[],"mappings":"AAEA,MAAM,MAAM,QAAQ,GAAG;IACrB,GAAG,EAAE,MAAM,MAAM,CAAC;CACnB,CAAC;AAEF;;GAEG;AACH,wBAAgB,OAAO,CAAC,IAAI,EAAE,MAAM,GAAG,QAAQ,CAE9C;AAED;;GAEG;AACH,wBAAgB,WAAW,CAAC,GAAG,EAAE,MAAM,EAAE,KAAK,EAAE,QAAQ,UAEvD"}
